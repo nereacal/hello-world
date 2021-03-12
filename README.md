@@ -1,3 +1,3 @@
 # hello-world
-like a virgin
+Ejercicios varios muy básicos
 
